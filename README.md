@@ -2,6 +2,7 @@
 
 Source: Kaggle
 File used:Loan Prediction Dataset
+
 🔍 Tasks Performed
 Dataset loading and inspection
 
