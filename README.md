@@ -1,9 +1,9 @@
 # Task2
 
-Source: Kaggle
+Source:Kaggle
 File used:Loan Prediction Dataset
 
-🔍 Tasks Performed
+🔍Tasks Performed
 Dataset loading and inspection
 
 🛠️ Tools Used
